@@ -1,3 +1,5 @@
+/** @OnlyCurrentDoc */
+
 function addOrUpdateCustomSlideNumbers() {
   // We need the active presentation object to interact with the file you currently have open.
   var presentation = SlidesApp.getActivePresentation();
